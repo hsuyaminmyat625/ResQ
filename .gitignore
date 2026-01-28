@@ -1,0 +1,26 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# macOS
+.AppleDouble
+.LSOverride
+
