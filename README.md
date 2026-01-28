@@ -73,7 +73,8 @@ ResQ
 ---
 
 ## 📸 Screenshots
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-21 at 02 05 34" src="https://github.com/user-attachments/assets/c9172a58-3fc2-4caa-a4f7-3ef880caf7ac" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-21 at 14 55 16" src="https://github.com/user-attachments/assets/7d827809-5b25-434a-9cbb-5414fbf42b36" />
+
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-21 at 02 05 29" src="https://github.com/user-attachments/assets/69d0b3bc-6567-4908-a643-6055ce16a339" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-21 at 02 05 19" src="https://github.com/user-attachments/assets/3c701b56-9ae7-4dba-b224-bf1b2e540edd" />
 
